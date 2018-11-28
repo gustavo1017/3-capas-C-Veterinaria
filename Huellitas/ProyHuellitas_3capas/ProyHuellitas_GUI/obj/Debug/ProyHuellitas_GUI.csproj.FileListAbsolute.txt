@@ -1,0 +1,65 @@
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_GUI.exe.config
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_GUI.exe
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_GUI.pdb
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_BE.dll
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_BL.dll
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_ADO.dll
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_BE.pdb
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_BL.pdb
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_ADO.pdb
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_ADO.dll.config
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.csprojResolveAssemblyReference.cache
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.Properties.Resources.resources
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.csproj.GenerateResource.cache
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.csproj.CoreCompileInputs.cache
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.csproj.CopyComplete
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.exe
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.pdb
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_GUI.exe.config
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_GUI.exe
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_GUI.pdb
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_BE.dll
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_BL.dll
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_ADO.dll
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_BE.pdb
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_BL.pdb
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_ADO.pdb
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_ADO.dll.config
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.csprojResolveAssemblyReference.cache
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoCliente.resources
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.Properties.Resources.resources
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.csproj.GenerateResource.Cache
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.exe
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.pdb
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoCliente2.resources
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoCliente3.resources
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_GUI.exe.config
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_GUI.exe
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_GUI.pdb
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_BE.dll
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_BL.dll
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_ADO.dll
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_BE.pdb
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_BL.pdb
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_ADO.pdb
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\bin\Debug\ProyHuellitas_ADO.dll.config
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoCliente.resources
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoCliente2.resources
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoCliente3.resources
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoVeterinaria.resources
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoVeterinaria2.resources
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.csproj.CopyComplete
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.exe
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.pdb
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoVeterinaria3.resources
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoVeterinaria.resources
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoVeterinaria2.resources
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoVeterinaria3.resources
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoVeterinario.resources
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoVeterinario2.resources
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.MantenimientoVeterinario3.resources
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_GUI\obj\Debug\ProyHuellitas_GUI.Form1.resources

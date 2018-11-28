@@ -1,0 +1,17 @@
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\bin\Debug\ProyHuellitas_BE.dll
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\bin\Debug\ProyHuellitas_BE.pdb
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\obj\Debug\ProyHuellitas_BE.csprojResolveAssemblyReference.cache
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\obj\Debug\ProyHuellitas_BE.csproj.CoreCompileInputs.cache
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\obj\Debug\ProyHuellitas_BE.dll
+D:\isil 2018\desarrollo de aplicaciones 1\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\obj\Debug\ProyHuellitas_BE.pdb
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\bin\Debug\ProyHuellitas_BE.dll
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\bin\Debug\ProyHuellitas_BE.pdb
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\obj\Debug\ProyHuellitas_BE.csprojResolveAssemblyReference.cache
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\obj\Debug\ProyHuellitas_BE.dll
+C:\Users\GEQR\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\obj\Debug\ProyHuellitas_BE.pdb
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\bin\Debug\ProyHuellitas_BE.dll
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\bin\Debug\ProyHuellitas_BE.pdb
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\obj\Debug\ProyHuellitas_BE.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\obj\Debug\ProyHuellitas_BE.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\obj\Debug\ProyHuellitas_BE.dll
+C:\Users\Gustavo\Desktop\Huellitas\ProyHuellitas_3capas\ProyHuellitas_BE\obj\Debug\ProyHuellitas_BE.pdb

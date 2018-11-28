@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{92DB0ABC-2BB2-4FC1-91A6-39C804EAA66E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyHuellitas_GUI</RootNamespace>
+    <AssemblyName>ProyHuellitas_GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoCliente.Designer.cs">
+      <DependentUpon>MantenimientoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoCliente2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoCliente2.Designer.cs">
+      <DependentUpon>MantenimientoCliente2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoCliente3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoCliente3.Designer.cs">
+      <DependentUpon>MantenimientoCliente3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoVeterinaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoVeterinaria.Designer.cs">
+      <DependentUpon>MantenimientoVeterinaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoVeterinaria2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoVeterinaria2.Designer.cs">
+      <DependentUpon>MantenimientoVeterinaria2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoVeterinaria3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoVeterinaria3.Designer.cs">
+      <DependentUpon>MantenimientoVeterinaria3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoVeterinario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoVeterinario.Designer.cs">
+      <DependentUpon>MantenimientoVeterinario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoVeterinario2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoVeterinario2.Designer.cs">
+      <DependentUpon>MantenimientoVeterinario2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoVeterinario3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoVeterinario3.Designer.cs">
+      <DependentUpon>MantenimientoVeterinario3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoCliente.resx">
+      <DependentUpon>MantenimientoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoCliente2.resx">
+      <DependentUpon>MantenimientoCliente2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoCliente3.resx">
+      <DependentUpon>MantenimientoCliente3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoVeterinaria.resx">
+      <DependentUpon>MantenimientoVeterinaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoVeterinaria2.resx">
+      <DependentUpon>MantenimientoVeterinaria2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoVeterinaria3.resx">
+      <DependentUpon>MantenimientoVeterinaria3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoVeterinario.resx">
+      <DependentUpon>MantenimientoVeterinario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoVeterinario2.resx">
+      <DependentUpon>MantenimientoVeterinario2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoVeterinario3.resx">
+      <DependentUpon>MantenimientoVeterinario3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProyHuellitas_BE\ProyHuellitas_BE.csproj">
+      <Project>{a3b7cd88-f897-45c3-bacf-e07cf8b22483}</Project>
+      <Name>ProyHuellitas_BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProyHuellitas_BL\ProyHuellitas_BL.csproj">
+      <Project>{84214881-de6b-42ab-b98c-cbdef9521a53}</Project>
+      <Name>ProyHuellitas_BL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
